@@ -63,5 +63,5 @@ If you'd like to contribute to this design, feel free to submit a request or ope
 ## Acknowledgments
 
 - Special thanks to [Figma](https://www.figma.com/) for providing the platform for design.
-- All contributors who help maintain and improve this design : (YARA) - (WOLFIX).
+- All contributors who help maintain and improve this design : (YARA).
 
